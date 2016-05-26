@@ -973,7 +973,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:numColumns
+          @attr name com.easemob.easeui:numColumns
         */
         public static final int EaseChatExtendMenu_numColumns = 0;
         /** Attributes that can be used with a EaseChatMessageList.
@@ -1002,7 +1002,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:msgListMyBubbleBackground
+          @attr name com.easemob.easeui:msgListMyBubbleBackground
         */
         public static final int EaseChatMessageList_msgListMyBubbleBackground = 0;
         /**
@@ -1012,7 +1012,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:msgListOtherBubbleBackground
+          @attr name com.easemob.easeui:msgListOtherBubbleBackground
         */
         public static final int EaseChatMessageList_msgListOtherBubbleBackground = 1;
         /**
@@ -1026,7 +1026,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:msgListShowUserAvatar
+          @attr name com.easemob.easeui:msgListShowUserAvatar
         */
         public static final int EaseChatMessageList_msgListShowUserAvatar = 2;
         /**
@@ -1040,7 +1040,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:msgListShowUserNick
+          @attr name com.easemob.easeui:msgListShowUserNick
         */
         public static final int EaseChatMessageList_msgListShowUserNick = 3;
         /** Attributes that can be used with a EaseContactList.
@@ -1074,7 +1074,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name android:ctsListInitialLetterBg
+          @attr name com.easemob.easeui:ctsListInitialLetterBg
         */
         public static final int EaseContactList_ctsListInitialLetterBg = 3;
         /**
@@ -1089,7 +1089,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:ctsListInitialLetterColor
+          @attr name com.easemob.easeui:ctsListInitialLetterColor
         */
         public static final int EaseContactList_ctsListInitialLetterColor = 4;
         /**
@@ -1104,7 +1104,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:ctsListPrimaryTextColor
+          @attr name com.easemob.easeui:ctsListPrimaryTextColor
         */
         public static final int EaseContactList_ctsListPrimaryTextColor = 0;
         /**
@@ -1120,7 +1120,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:ctsListPrimaryTextSize
+          @attr name com.easemob.easeui:ctsListPrimaryTextSize
         */
         public static final int EaseContactList_ctsListPrimaryTextSize = 1;
         /**
@@ -1134,7 +1134,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:ctsListShowSiderBar
+          @attr name com.easemob.easeui:ctsListShowSiderBar
         */
         public static final int EaseContactList_ctsListShowSiderBar = 2;
         /** Attributes that can be used with a EaseConversationList.
@@ -1173,7 +1173,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:cvsListPrimaryTextColor
+          @attr name com.easemob.easeui:cvsListPrimaryTextColor
         */
         public static final int EaseConversationList_cvsListPrimaryTextColor = 0;
         /**
@@ -1189,7 +1189,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:cvsListPrimaryTextSize
+          @attr name com.easemob.easeui:cvsListPrimaryTextSize
         */
         public static final int EaseConversationList_cvsListPrimaryTextSize = 3;
         /**
@@ -1204,7 +1204,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:cvsListSecondaryTextColor
+          @attr name com.easemob.easeui:cvsListSecondaryTextColor
         */
         public static final int EaseConversationList_cvsListSecondaryTextColor = 1;
         /**
@@ -1220,7 +1220,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:cvsListSecondaryTextSize
+          @attr name com.easemob.easeui:cvsListSecondaryTextSize
         */
         public static final int EaseConversationList_cvsListSecondaryTextSize = 4;
         /**
@@ -1235,7 +1235,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:cvsListTimeTextColor
+          @attr name com.easemob.easeui:cvsListTimeTextColor
         */
         public static final int EaseConversationList_cvsListTimeTextColor = 2;
         /**
@@ -1251,7 +1251,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:cvsListTimeTextSize
+          @attr name com.easemob.easeui:cvsListTimeTextSize
         */
         public static final int EaseConversationList_cvsListTimeTextSize = 5;
         /** Attributes that can be used with a EaseEmojiconMenu.
@@ -1280,7 +1280,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:bigEmojiconRows
+          @attr name com.easemob.easeui:bigEmojiconRows
         */
         public static final int EaseEmojiconMenu_bigEmojiconRows = 0;
         /**
@@ -1294,7 +1294,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:emojiconColumns
+          @attr name com.easemob.easeui:emojiconColumns
         */
         public static final int EaseEmojiconMenu_emojiconColumns = 1;
         /** Attributes that can be used with a EaseSwitchButton.
@@ -1321,7 +1321,7 @@ containing a value of this type.
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:switchCloseImage
+          @attr name com.easemob.easeui:switchCloseImage
         */
         public static final int EaseSwitchButton_switchCloseImage = 1;
         /**
@@ -1331,7 +1331,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:switchOpenImage
+          @attr name com.easemob.easeui:switchOpenImage
         */
         public static final int EaseSwitchButton_switchOpenImage = 0;
         /**
@@ -1348,7 +1348,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>open</code></td><td>0</td><td></td></tr>
 <tr><td><code>close</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name android:switchStatus
+          @attr name com.easemob.easeui:switchStatus
         */
         public static final int EaseSwitchButton_switchStatus = 2;
         /** Attributes that can be used with a EaseTitleBar.
@@ -1379,7 +1379,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name android:titleBarBackground
+          @attr name com.easemob.easeui:titleBarBackground
         */
         public static final int EaseTitleBar_titleBarBackground = 3;
         /**
@@ -1389,7 +1389,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:titleBarLeftImage
+          @attr name com.easemob.easeui:titleBarLeftImage
         */
         public static final int EaseTitleBar_titleBarLeftImage = 1;
         /**
@@ -1399,7 +1399,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name android:titleBarRightImage
+          @attr name com.easemob.easeui:titleBarRightImage
         */
         public static final int EaseTitleBar_titleBarRightImage = 2;
         /**
@@ -1413,7 +1413,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name android:titleBarTitle
+          @attr name com.easemob.easeui:titleBarTitle
         */
         public static final int EaseTitleBar_titleBarTitle = 0;
     };
